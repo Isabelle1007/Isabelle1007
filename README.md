@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">About Me 🙌🏻</h3>
+<h3 align="left">ABOUT ME 🙌🏻</h3>
 <ul>
   <li>I'm <b>Chen-Syuan (Isabelle) Huang</b>, a Master's graduate in <b>Information Systems Management</b> from <b>WashU</b> 🎓</li>
   <li>Passionate about <b>Full-Stack Web Development</b>, especially building scalable and user-friendly applications 🖥️</li>
@@ -13,7 +13,7 @@
 
 ###
 
-<h3 align="left">Languages and Tools 💻 </h3>
+<h3 align="left">TECH STACK 💻 </h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
@@ -127,7 +127,41 @@
 
 ###
 
-<h3 align="left">Contact Me 👋</h3>
+<h3 align="left">EDUCATION 🎓</h3>
+<ul>
+  <li><b>Master</b> in <b>Information Systems Management</b>, Washington University in St. Louis <b>(WashU)</b>, 2023 - 2024</li>
+  <li><b>Bachelor of Business Administration</b> in <b>Information Management</b>, National Taiwan University <b> (NTU)</b>, 2019 - 2023</li>
+</ul>
+
+###
+
+<h3 align="left">EXPERIENCES 👩🏻‍💻 </h3>
+<ul>
+  <li><b>Software Engineer Intern</b> @ Graphen, Inc., 2024</li>
+  <li><b>Teaching Assistant</b> (INFO574 Foundations of Analytics) @ WashU, 2024</li>
+  <li><b>Full-Stack Web Services Developer</b> @ NTU Shanfu, 2023</li>
+  <li><b>Full-Stack Trainee</b> @ Aiworks (AppWorks School), 2023</li>
+</ul>
+
+###
+
+<h3 align="left">PROJECTS 💡</h3>
+
+<ul>
+  <li><b><a href="https://github.com/Isabelle1007/NTUShanfu-course" target="_blank">NTU Shanfu Course Platform</a></b>: A course-sharing platform designed for student clubs, integrating advanced search, material uploads, and NLP-powered keyword-based search.</li>
+  
+  <li><b><a href="https://github.com/Isabelle1007/Big5-App" target="_blank">5eeYou – A Web Service Predicting Personalities through Video</a></b>: An interview practice platform that predicts users’ Big Five personality traits using a CNN model and provides job-matching insights.</li>
+  
+  <li><b>STYLish – Full-Stack E-commerce Website</b>: A fashion e-commerce platform with product filtering, a shopping cart, and a checkout system, integrating a responsive UI and backend API handling for transactions.</li>
+  
+  <li><b>Travelets – Web-based Social Travel Planner</b>: A collaborative itinerary management app that allows users to plan trips with friends, schedule activities, and mitigate travel risks.</li>
+  
+</ul>
+
+
+###
+
+<h3 align="left">CONTACT ME 👋</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/chen-syuan-huang/" target="_blank">
