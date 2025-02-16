@@ -115,8 +115,14 @@
 
 ###
 
-<div align="center">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=isabelle1007&show_icons=true&locale=en&layout=compact" alt="isabelle1007" /></p>
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=isabelle1007&show_icons=true&locale=en&layout=compact" 
+    alt="isabelle1007" />
+  <img width="50" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=isabelle1007&" 
+    alt="isabelle1007"/>
 </div>
 
 ###
