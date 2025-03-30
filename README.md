@@ -149,6 +149,8 @@
 
 <ul>
   <li><b><a href="https://github.com/Isabelle1007/NTUShanfu-course" target="_blank">NTU Shanfu Course Platform</a></b>: A course-sharing platform designed for student clubs, integrating advanced search, material uploads, and NLP-powered keyword-based search.</li>
+
+   <li><b><a href="https://github.com/mklmklmklmkl/INFO574FinalProject" target="_blank">Netflix Content Insights – Data-Driven Analysis</a></b>: An in-depth analysis of Netflix shows and programs, focusing on uncovering trends in viewer preferences and content characteristics.</li>
   
   <li><b><a href="https://github.com/Isabelle1007/Big5-App" target="_blank">5eeYou – A Web Service Predicting Personalities through Video</a></b>: An interview practice platform that predicts users’ Big Five personality traits using a CNN model and provides job-matching insights.</li>
   
