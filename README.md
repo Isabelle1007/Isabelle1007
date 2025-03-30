@@ -6,7 +6,7 @@
 <ul>
   <li>I'm <b>Chen-Syuan (Isabelle) Huang</b>, a Master's graduate in <b>Information Systems Management</b> from <b>WashU</b> 🎓</li>
   <li>Passionate about <b>Full-Stack Web Development</b>, especially building scalable and user-friendly applications 🖥️</li>
-  <li>Currently diving into <b>Java Spring Boot</b> and always up for learning something new! 🚀</li>
+  <li>Currently working on <b>AWS Cloud Practioner CLF-C02 Training</b> and always up for learning something new! 🚀</li>
   <li><b>Reach me at:</b> 📧 <a href="mailto:chensyuan.huang@gmail.com">chensyuan.huang@gmail.com</a></li> 
   <li><b>Fun fact:</b> I once missed two flights on the same day and ended up on an unexpected road trip from Orlando to St. Louis! 🚗</li>
 </ul>
