@@ -137,7 +137,8 @@
 
 <h3 align="left">EXPERIENCES 👩🏻‍💻 </h3>
 <ul>
-  <li><b>Software Engineer Intern</b> @ Graphen, Inc., 2024</li>
+  <li><b>Software Developer</b> @ Audemy, 2025</li>
+  <li><b>Data Science Intern</b> @ Graphen, Inc., 2024</li>
   <li><b>Teaching Assistant</b> (INFO574 Foundations of Analytics) @ WashU, 2024</li>
   <li><b>Full-Stack Web Services Developer</b> @ NTU Shanfu, 2023</li>
   <li><b>Full-Stack Trainee</b> @ Aiworks (AppWorks School), 2023</li>
